@@ -25,4 +25,5 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Data cleaning em gêneros de filmes utilizando a biblioteca FuzzyWuzzy:** https://bit.ly/3ad24NI
 * **Análise sobre praias atingidas pelas manchas de óleo no Nordeste:** https://bit.ly/38jSSpb
 * **Análise sobre os Acidentes nas Rodovias Federais do Brasil no Ano de 2019:** https://bit.ly/2TeKtz5
+* **Análise dos dados da Google Play Store:** https://bit.ly/2PX3wvV
 ---
