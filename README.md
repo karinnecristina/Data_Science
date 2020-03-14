@@ -26,4 +26,5 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Análise sobre praias atingidas pelas manchas de óleo no Nordeste:** https://bit.ly/38jSSpb
 * **Análise sobre os Acidentes nas Rodovias Federais do Brasil no Ano de 2019:** https://bit.ly/2TeKtz5
 * **Análise dos dados da Google Play Store:** https://bit.ly/2PX3wvV
+* **Análise dos dados da Apple Store:** https://bit.ly/33h3aWf
 ---
