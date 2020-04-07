@@ -14,6 +14,7 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/karinnecristinapereira/)
 * [Medium](https://medium.com/@KarinneCristina)
+* [Website](https://karinneristina.glitch.me/)
 
 
 ## Projetos:
