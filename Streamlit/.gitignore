@@ -1,0 +1,148 @@
+# Criado por https://www.gitignore.io/api/venv,linux,python,visualstudiocode
+# Editar em https://www.gitignore.io/?templates=venv,linux,python,visualstudiocode
+
+### Linux ###
+* ~
+
+# arquivos temporários que podem ser criados se um processo ainda tiver um identificador aberto de um arquivo excluído
+.fuse_hidden *
+
+# Preferências de diretório do KDE
+.diretório
+
+# Pasta de lixo do Linux que pode aparecer em qualquer partição ou disco
+.Lixo-*
+
+# .nfs arquivos são criados quando um arquivo aberto é removido, mas ainda está sendo acessado
+.nfs *
+
+### Pitão ###
+# Arquivos compilados em bytes / otimizados / DLL
+__pycache __ /
+* .py [cod]
+* $ py.class
+
+Extensões # C
+*.tão
+
+# Distribuição / embalagem
+.Pitão
+Construir/
+ovos de revelação /
+dist /
+Transferências/
+ovos/
+.ovos/
+lib /
+lib64 /
+peças /
+sdist /
+var /
+rodas /
+metadados pip-wheel /
+compartilhar / rodas-python /
+* .egg-info /
+.installed.cfg
+*.ovo
+MANIFESTO
+
+# PyInstaller
+# Geralmente, esses arquivos são gravados por um script python a partir de um modelo
+# antes do PyInstaller criar o exe, para injetar data / outras informações nele.
+*.manifesto
+* .spec
+
+# Logs do instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Relatórios de teste / cobertura unitária
+htmlcov /
+.tox /
+.nox /
+.cobertura
+.cobertura.*
+.cache
+nosetests.xml
+cobertura.xml
+*.cobrir
+.hipótese/
+.pytest_cache /
+
+# Traduções
+* .mo
+*.Panela
+
+# Coisas arranhadas:
+.scrapy
+
+# Documentação da esfinge
+docs / _build /
+
+# PyBuilder
+alvo/
+
+# pyenv
+.python-version
+
+# pipenv
+# De acordo com pypa / pipenv # 598, é recomendável incluir o Pipfile.lock no controle de versão.
+# No entanto, no caso de colaboração, se houver dependências ou dependências específicas da plataforma
+# sem suporte multiplataforma, o pipenv pode instalar dependências que não funcionam ou não
+# instalar todas as dependências necessárias.
+# Pipfile.lock
+
+# arquivo de programação de batidas de aipo
+aipo-agenda
+
+# SageMath arquivos analisados
+* .sage.py
+
+# Configurações do projeto Spyder
+.spyderproject
+.spyproject
+
+# Configurações do projeto de corda
+.ropeproject
+
+# Mr Developer
+.mr.developer.cfg
+.projeto
+.pydevproject
+
+documentação do # mkdocs
+/local
+
+# mypy
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+# Verificador de tipo pira
+.pyre /
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+pyvenv.cfg
+.env
+.venv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+pip-selfcheck.json
+
+### VisualStudioCode ###
+.vscode/
+! .vscode / settings.json
+! .vscode / tasks.json
+! .vscode / launch.json
+! .vscode / extensions.json
+
+### Patch do VisualStudioCode ###
+# Ignora todo o histórico local de arquivos
+.história
+
+# Fim do https://www.gitignore.io/api/venv,linux,python,visualstudiocode
