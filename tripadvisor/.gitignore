@@ -1,8 +1,0 @@
-# Vscode 
-.vscode
-
-
-# Arquivos de Python
-*.pyc
-__pycache__
-_pycache_
