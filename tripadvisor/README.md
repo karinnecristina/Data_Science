@@ -11,7 +11,7 @@ Foram extraídas as seguintes informações:
 - Data do comentário;
 - Tipo de viagem.
 
-
+<img src="Image/coment.png" >
 
 **Ferramentas utilizadas:**
 - Python 3 
